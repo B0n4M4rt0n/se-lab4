@@ -1,0 +1,3 @@
+GT4500,10,0,10,0 #Készít egy űrhajót aminek 10-10 töltény van a raktárában és sosem hibásodik meg
+TORPEDO,SINGLE #Kilő egy rakétát az első tárból
+TORPEDO,SINGLE #Kilő egy rakétát az második tárból
