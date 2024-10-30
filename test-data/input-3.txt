@@ -1,0 +1,3 @@
+GT4500,10,0,0,0 #Csak az első tárba rakunk torpedót
+TORPEDO,SINGLE #Kilövünk egy torpedót az első tárból
+TORPEDO,SINGLE #Kilövünk mégegy torpedót az első tárból
